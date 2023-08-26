@@ -1,0 +1,81 @@
+@import './variables.css';
+
+.header {
+    background: #da6363;
+    display: flex;
+    gap: 50px;
+    padding: 1em 0 1em 5em;
+}
+
+.header__link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #fff;
+    font-family: Nunito;
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.header__link:hover {
+    color: #ffcdcd;
+}
+
+.header__link-icon {
+    width: 30px;
+    height: 30px;
+}
+
+.header__link-icon--home {
+    background: url(/img/icons8-home.svg) no-repeat center;
+    background-size: 30px;
+}
+
+.header__link-icon--fotos {
+    background: url(/img/icons8-photo-gallery-50.png) no-repeat center;
+    background-size: 30px;
+}
+
+.header__link:hover > .header__link-icon--home {
+    background: url(/img/icons8-home-hover.svg) no-repeat center;
+    background-size: 30px;
+} 
+
+.header__link:hover > .header__link-icon--fotos {
+    background: url(/img/icons8-photo-gallery-50-hover.png) no-repeat center;
+    background-size: 30px;
+} 
+
+@media only screen and (max-width: 425px) {
+    .header {
+        gap: 50px;
+        padding: 1em 0 1em 2em;
+    }
+    
+    .header__link {
+        gap: 10px;
+        font-size: 1.2rem;
+    }
+
+    .header__link-icon {
+        width: 20px;
+        height: 20px;
+    }
+
+    .header__link-icon--home {
+        background-size: 20px;
+    }
+    
+    .header__link-icon--fotos {
+        background-size: 20px;
+    }
+    
+    .header__link:hover > .header__link-icon--home {
+        background-size: 20px;
+    } 
+    
+    .header__link:hover > .header__link-icon--fotos {
+        background-size: 20px;
+    } 
+}

@@ -1,0 +1,9 @@
+@import './header.css';
+@import './main.css';
+@import './footer.css';
+
+body {
+    background: rgb(255, 150, 150);
+    background: radial-gradient(circle, rgba(255, 150, 150, 1) 0%, rgba(255, 201, 212, 1) 100%);
+    box-sizing: border-box;
+}

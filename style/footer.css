@@ -1,0 +1,79 @@
+@import './variables.css';
+
+.footer {
+    align-items: center;
+    background: #da6363;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.footer__block {
+    display: flex;
+    padding: 1em;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer__title {
+    color: #fff;
+    font-family: Nunito;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.footer__link {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    color: #fff;
+    font-family: Nunito;
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.footer__link:hover {
+    color: #ffcdcd;
+}
+
+.footer__link-icon {
+    width: 30px;
+    height: 30px;
+    background: url(/img/icons8-portfolio-60.png) no-repeat center;
+    background-size: 30px;
+}
+
+.footer__link:hover > .footer__link-icon {
+    background: url(/img/icons8-portfolio-60-hover.png) no-repeat center;
+    background-size: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+    .footer__block {
+        gap: 25px;
+        flex-wrap: wrap;
+    }
+}
+
+@media only screen and (max-width: 425px) {
+    .footer__title {
+        font-size: 1.4rem;
+    }
+
+    .footer__link {
+        font-size: 1.2rem;
+    }
+
+    .footer__link-icon {
+        width: 25px;
+        height: 25px;
+        background-size: 25px;
+    }
+    
+    .footer__link:hover > .footer__link-icon {
+        background-size: 25px;
+    }
+}
