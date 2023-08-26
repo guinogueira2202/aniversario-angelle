@@ -20,7 +20,7 @@ Se trata de uma página de cartão digital de aniversário, contendo um **cabeç
 * No **cabeçalho** da página temos o menu de navegação com os links de redirecionamento da página **"Home"** e **"Fotos"**.
 * No **conteúdo principal** temos uma foto da aniversariante, um título, texto e gifs animados de corações e confetes.
 * Na página **"Fotos"** temos uma galeria com várias fotos da aniversariante.
-* Por fim, o **rodapé** com o crédito de desenvolvimento e link para o [portfólio](https://portfolio-fosdmm3ps-guinogueira2202.vercel.app/).
+* Por fim, o **rodapé** com o crédito de desenvolvimento e link para o [portfólio](https://portfolio-seven-taupe-51.vercel.app/).
 
 <img src="./img/readme/screencapture-aniversario-angelle-vercel-app-index-html-2023-08-26-04_15_18.png" alt="Screenshot mostrando o panorama completo da página">
 <img src="./img/readme/screencapture-aniversario-angelle-vercel-app-fotos-html-2023-08-26-04_17_35.png" alt="Screenshot mostrando o panorama completo da página">
