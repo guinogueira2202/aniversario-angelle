@@ -18,11 +18,12 @@ Você pode visualizar essa página web aqui:
 Se trata de uma página de cartão digital de aniversário, contendo um **cabeçalho**, **conteúdo principal** com mensagem e **rodapé**. Página completamente responsiva em diferentes tamanhos de tela.
 
 * No **cabeçalho** da página temos o menu de navegação com os links de redirecionamento da página **"Home"** e **"Fotos"**.
-* No conteúdo principal temos uma foto da aniversariante, com um título e um texto com uma mensagem.
+* No **conteúdo principal** temos uma foto da aniversariante, um título, texto e gifs animados de corações e confetes.
 * Na página **"Fotos"** temos uma galeria com várias fotos da aniversariante.
 * Por fim, o **rodapé** com o crédito de desenvolvimento e link para o [portfólio](https://portfolio-fosdmm3ps-guinogueira2202.vercel.app/).
 
-<img src="./assets/img/readme/screencapture-127-0-0-1-3000-html-index-html-2023-08-18-06_01_45.png" alt="Screenshot mostrando o panorama completo da página">
+<img src="./img/readme/screencapture-aniversario-angelle-vercel-app-index-html-2023-08-26-04_15_18.png" alt="Screenshot mostrando o panorama completo da página">
+<img src="./img/readme/screencapture-aniversario-angelle-vercel-app-fotos-html-2023-08-26-04_17_35.png" alt="Screenshot mostrando o panorama completo da página">
 
 ---
 
@@ -30,7 +31,7 @@ Se trata de uma página de cartão digital de aniversário, contendo um **cabeç
 
 A página se adapta em telas de tablets e smartphones de diferentes tamanhos, como você pode ver nessa imagem de visualização completa da página em um smartphone. Todos os elementos são reorganizados para caber perfeitamente na tela.
 
-<img src="./assets/img/readme/screencapture-fruta-e-fruto-teal-vercel-app-2023-08-20-16_45_05.png" alt="Screenshot mostrando a página completa no mobile">
+<img src="./img/readme/screencapture-aniversario-angelle-vercel-app-index-html-2023-08-26-05_16_22.png" alt="Screenshot mostrando a página completa no mobile">
 
 ---
 
@@ -58,7 +59,7 @@ Sou um entusiasta da tecnologia e estou focado em me tornar um desenvolvedor ful
 onde estou aprimorando minhas habilidades em HTML, CSS e JavaScript. No entanto, meu objetivo é abraçar todas as camadas do desenvolvimento de 
 software, incluindo back-end e data science.
 
-<img src="./assets/img/readme/Perfil-Gui.png" alt="Foto de Guilherme Nogueira de terno, com os braços cruzados sorrindo">
+<img src="./img/readme/Perfil-Gui.png" alt="Foto de Guilherme Nogueira de terno, com os braços cruzados sorrindo">
 
 ## Minhas Linguagens Mais Usadas
 
